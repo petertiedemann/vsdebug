@@ -1,0 +1,11 @@
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\ClassLibrary2.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\ClassLibrary2.pdb
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\Library1.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\FSharp.Core.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\Library1.pdb
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\Library1.xml
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\bin\Debug\net461\FSharp.Core.xml
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\obj\Debug\net461\ClassLibrary2.csprojResolveAssemblyReference.cache
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\obj\Debug\net461\ClassLibrary2.AssemblyInfo.cs
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\obj\Debug\net461\ClassLibrary2.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary2\obj\Debug\net461\ClassLibrary2.pdb

@@ -1,0 +1,43 @@
+{
+  "version": 2,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\Library1\\Library1.fsproj"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\peter\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\ClassLibrary2\\ClassLibrary2.csproj",
+      "projectName": "ClassLibrary2",
+      "projectPath": "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\ClassLibrary2\\ClassLibrary2.csproj",
+      "outputPath": "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\ClassLibrary2\\obj\\",
+      "projectStyle": "PackageReference",
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "files": {
+        "lib/net461/ClassLibrary2.dll": "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\ClassLibrary2\\bin\\placeholder\\net461\\ClassLibrary2.dll"
+      },
+      "frameworks": {
+        "net461": {
+          "projectReferences": {
+            "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\Library1\\Library1.fsproj": {
+              "projectPath": "C:\\Users\\peter\\documents\\visual studio 2017\\Projects\\vsdbg\\Library1\\Library1.fsproj"
+            }
+          }
+        }
+      }
+    },
+    "frameworks": {
+      "net461": {}
+    }
+  }
+}

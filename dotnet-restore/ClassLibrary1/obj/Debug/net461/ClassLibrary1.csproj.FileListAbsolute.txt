@@ -1,0 +1,5 @@
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary1\bin\Debug\net461\ClassLibrary1.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary1\bin\Debug\net461\ClassLibrary1.pdb
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary1\obj\Debug\net461\ClassLibrary1.AssemblyInfo.cs
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary1\obj\Debug\net461\ClassLibrary1.dll
+c:\Users\peter\documents\visual studio 2017\Projects\vsdbg\ClassLibrary1\obj\Debug\net461\ClassLibrary1.pdb
